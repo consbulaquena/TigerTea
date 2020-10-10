@@ -6,6 +6,7 @@ Website selling yummy milktea. See <a href="https://consbulaquena.github.io/Tige
 ### DONE IN
 <ul><li>Html</li>
 <li>CSS</li>
+<li>JavaScript</li>
 </ul>
 
 ### I USED
