@@ -11,4 +11,5 @@ Website selling yummy milktea. See <a href="https://consbulaquena.github.io/Tige
 
 ### I USED
 <ul><li>Visual Studio Code</li>
+<li>Photoshop</li>
 </ul>
