@@ -1,7 +1,7 @@
 # TigerTea
 
 ### ABOUT
-A Milktea website.
+Website selling yummy milktea. See <a href="https://consbulaquena.github.io/TigerTea/">here</a> 
 
 ### DONE IN
 <ul><li>Html</li>
