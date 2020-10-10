@@ -215,6 +215,16 @@ header {
     transform: translate(-50%, -50%);
 }
 
+.hero-image-box {
+    width: 400px;
+    position: absolute;
+    bottom: 0;
+    right: 110px;
+}
+
+.hero-image-box img {
+    width: 100%;
+}
 .logo {
     height: 100px;
     width: auto;
