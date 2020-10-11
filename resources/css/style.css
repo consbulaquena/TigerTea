@@ -368,6 +368,11 @@ header {
 /* HOW IT WORKS SECTION */
 /* ----------------------------------------------- */
 
+
+.app-screen {
+    width: 270px;
+}
+
 .section-steps {
     background-color: #F6F4EC;
 }
@@ -388,12 +393,25 @@ header {
     margin-top: 70px;
 }
 
-.app-screen {
-    width: 40%;
+.orange-container {
+    background: #EA9B50;
+    max-width: 900px;
+    margin: 0 auto;
+    border-radius: 8px;s
 }
 
 .works-step {
     margin-bottom: 50px;
+}
+
+.works-step h2 {
+    text-align: left;
+    color: #503531;
+
+}
+
+.works-step h2:after {
+    display: none;
 }
 
 .works-step:last-of-type {
