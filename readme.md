@@ -1,6 +1,6 @@
 # TigerTea
 
-<img src="resources/img/tiger-tea-logo.svg"
+<img src="resources/img/tiger-tea-logo.svg">
 ### ABOUT
 Website selling yummy milktea. See <a href="https://consbulaquena.github.io/TigerTea/">here</a> 
 
