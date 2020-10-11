@@ -200,8 +200,7 @@ input[type=submit]:active {
 /* ----------------------------------------------- */
 
 header {
-    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1));
-    background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1));
+    background-image: url(../img/background-texture.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
