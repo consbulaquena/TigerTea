@@ -316,6 +316,14 @@ header {
     margin-bottom: 30px;
 }
 
+.flavor-box h3{
+    text-align: center;
+    color: #DB8C00;
+}
+
+.flavor-box p{
+    text-align: center;
+}
 
 /* ----------------------------------------------- */
 /* MEALS */
