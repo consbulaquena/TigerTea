@@ -26,7 +26,7 @@ body {
 }
 
 h1,h2,h3,h4,h5 {
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .clearfix {zoom: 1;}
 .clearfix:after {
@@ -71,6 +71,7 @@ h1 {
     word-spacing: 4px;
     letter-spacing: 1px;
 }
+
 
 h2 {
     font-size: 180%;
@@ -257,7 +258,8 @@ header {
 .main-nav li a:link,
 .main-nav li a:visited {
     padding: 8px 0;
-    color: #fff;
+    color: #FFAD00;
+    font-family: Georgia,Times,Times New Roman,serif;s
     text-decoration: none;
     text-transform: uppercase;
     font-size: 90%;
@@ -311,6 +313,12 @@ header {
 /* ----------------------------------------------- */
 /* FEATURES */
 /* ----------------------------------------------- */
+
+#features h2 {
+    font-family: Georgia,Times,Times New Roman,serif;
+    color: #4F352A;
+    font-weight: bold;
+}
 
 .section-features .long-copy {
     margin-bottom: 30px;
