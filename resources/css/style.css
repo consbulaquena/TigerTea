@@ -375,7 +375,9 @@ header {
 /* HOW IT WORKS SECTION */
 /* ----------------------------------------------- */
 
-
+.app-heading h2 {
+    line-height: 1;
+}
 .app-screen {
     width: 270px;
 }
