@@ -200,6 +200,11 @@ input[type=submit]:active {
 /* HEADER */
 /* ----------------------------------------------- */
 
+.nav-header {
+    position: relative;
+    z-index: 10;
+}
+
 header {
     background-image: url(../img/background-texture.jpg);
     background-size: cover;
