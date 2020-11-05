@@ -211,6 +211,9 @@ header {
     background-position: center;
     height: 100vh;
     background-attachment: fixed;
+    min-width: 1460px;
+    width: 100%;
+    position: relative;
 }
 
 .hero-text-box {
